@@ -102,4 +102,3 @@ void display(int mult[][10], int rowFirst, int columnSecond)
 		}
 	}
 }
-O
